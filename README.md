@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamdy Sameh Hamdy</h1>
+<h3 align="center">AI & Machine Learning Enthusiast</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/HamdySameh55](https://github.com/HamdySameh55)
+
+- 📫 How to reach me **hamdysameh480@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamdy sameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdy sameh" height="30" width="40" /></a>
